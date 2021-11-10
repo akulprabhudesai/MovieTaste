@@ -1,5 +1,5 @@
 
-Flick Review is a concept based Movie Catalog website with ratings from the top critics and more information about your favorite movies!!!
+MovieTaste is a concept based Movie Catalog website with ratings from the top critics and more information about your favorite movies!!!
 
 To use this application, 
 
